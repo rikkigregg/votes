@@ -32,6 +32,7 @@ purged <- read.csv(pv) %>% filter(COUNTY_NAME == "MONTGOMERY")
 
 length(purged$COUNTY_NAME)
 
+# voter rolls for 0702 (july 2) for Montgomery county
 
 ```
 
